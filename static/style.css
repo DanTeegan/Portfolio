@@ -12,6 +12,8 @@ body{
 
 }
 
+
+
 .banner {
 	width:100%;
 	height:100px;
@@ -21,11 +23,11 @@ body{
 }
 
 .banner h1 {
-  font-color: white;
+  color: white;
 }
 
 .banner h4{
-  font-color: white;
+  color: white;
 }
 
 .index {
@@ -43,6 +45,37 @@ body{
 	text-align:center;
 }
 
+.container h1 {
+  margin:auto;
+  text-align:center;
+}
+
+.projectsp{
+  text-align: center !important;
+}
+
+.cardsblock {
+  width:80%;
+  margin:auto;
+  background-color: red;
+}
+
+.intropara {
+  width: 80%;
+  height: 100px;
+
+}
+
+.card {
+  float: right;
+  padding:0 100px 0 100px !important;
+  align-items: center;
+}
+
+
+.btn btn-primary {
+  text-align:center;
+}
 
 
 
